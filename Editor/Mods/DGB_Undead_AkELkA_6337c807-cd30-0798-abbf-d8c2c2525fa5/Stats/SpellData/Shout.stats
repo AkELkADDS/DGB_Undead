@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="9fd4ac7a-fad7-424f-83df-0893eae93c38">
+  <stat_objects>
+    <stat_object color="#FF800000" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="753d5929-d85d-493b-8264-d1bfa3def861" />
+        <field name="Name" type="NameTableFieldDefinition" value="DestructiveWave_Necrotic_test" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="31b7823b-bc55-46be-a307-53b61283f1fb" />
+        <field name="SpellContainerID" type="StringTableFieldDefinition" value="Shout_DestructiveWave" />
+        <field name="SpellSuccess" type="StringTableFieldDefinition" value="DealDamage(5d6,Thunder);DealDamage(5d6,Necrotic,Magical);ApplyStatus(PRONE,100,1)" />
+        <field name="SpellFail" type="StringTableFieldDefinition" value="DealDamage((5d6)/2,Thunder);DealDamage((5d6)/2,Necrotic,Magical)" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h0babf13eg7685g294age6a8gce1cb6b93854" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h929eecf1gb092g4d61gdb0fgfe9c27b3ea0b" version="1" />
+        <field name="TooltipDamageList" type="StringTableFieldDefinition" value="DealDamage(5d6,Thunder);DealDamage(5d6,Necrotic)" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="HasVerbalComponent;IsSpell;IsHarmful" enumeration_type_name="SpellFlagList" version="1" />
+        <field name="DamageType" type="EnumerationTableFieldDefinition" value="Necrotic" enumeration_type_name="Damage Type" version="1" />
+        <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="eff14e27-89fd-4e98-a479-dceb59d82aae" />
+        <field name="TargetEffect" type="GuidObjectTableFieldDefinition" value="b3d81cea-94b9-4c91-89ec-385a481943d3" />
+        <field name="CastSound" type="StringTableFieldDefinition" value="Spell_Cast_Cleric_DestructiveWaveNecrotic_L4to5" />
+        <field name="TargetSound" type="StringTableFieldDefinition" value="Spell_Impact_Cleric_DestructiveWaveNecrotic_L4to5" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MultiEffectInfos UUID="9a50e8a1-367a-4fd6-84bc-843a0383f59b" OwnerUUID="6f55eb2a-1395-43bb-bea2-fe9ac238c8c3" Name="BreathWeapon_Spore_EL_PrepareEffect">
+  <EffectInfo UUID="9ffff0e2-0810-4cef-87a7-42f58a6e4292" EffectResourceGuid="c7172c64-79ae-1305-56cd-da3bc462dcbc" DetachSource="false" DetachTarget="false" KeepRotation="false" UseOrientDirection="false" UseDistance="false" UseScaleOverride="false" KeepScale="true" MainHand="false" OffHand="false" MinDistance="0" MaxDistance="0" BindSourceTo="SourceEntity" BindTargetTo="TargetEntity" Pivot="Target" Enabled="true" StartTextKey="VFX_Prepare_01" DamageType="None" VerbalIntent="None" TargetBone="Dummy_MouthFX" SourceCheckEquipmentTagConditions="true" TargetCheckEquipmentTagConditions="true" />
+</MultiEffectInfos>

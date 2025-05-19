@@ -1,0 +1,28 @@
+new entry "HeroDragonbornFemale_Undead"
+type "Character"
+using "_Hero"
+data "Weight" "100"
+data "NecroticResistance" "Resistant"
+data "PoisonResistance" "Immune"
+data "RadiantResistance" "Vulnerable"
+
+new entry "HeroDragonbornMale_Undead"
+type "Character"
+using "_Hero"
+data "Weight" "100"
+data "NecroticResistance" "Resistant"
+data "PoisonResistance" "Immune"
+data "RadiantResistance" "Vulnerable"
+
+new entry "HeroDragonbornFemale_SporeUndead"
+type "Character"
+using "_Hero"
+data "Weight" "100"
+data "NecroticResistance" "Resistant"
+
+new entry "HeroDragonbornMale_SporeUndead"
+type "Character"
+using "_Hero"
+data "Weight" "100"
+data "NecroticResistance" "Resistant"
+

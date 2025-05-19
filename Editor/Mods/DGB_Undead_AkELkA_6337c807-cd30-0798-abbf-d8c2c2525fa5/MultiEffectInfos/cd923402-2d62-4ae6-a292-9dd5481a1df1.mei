@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MultiEffectInfos UUID="cd923402-2d62-4ae6-a292-9dd5481a1df1" OwnerUUID="6f55eb2a-1395-43bb-bea2-fe9ac238c8c3" Name="BreathWeapon_Undead_EL_PrepareEffect">
+  <EffectInfo UUID="603ab674-eb49-4502-94ea-4b28374626aa" EffectResourceGuid="85daec1f-0838-403c-1b25-493f38880cf9" DetachSource="false" DetachTarget="false" KeepRotation="false" UseOrientDirection="false" UseDistance="false" UseScaleOverride="false" KeepScale="true" MainHand="false" OffHand="false" MinDistance="0" MaxDistance="0" BindSourceTo="SourceEntity" BindTargetTo="TargetEntity" Pivot="Target" Enabled="true" StartTextKey="VFX_Prepare_01" DamageType="None" VerbalIntent="None" TargetBone="Dummy_MouthFX" SourceCheckEquipmentTagConditions="true" TargetCheckEquipmentTagConditions="true" />
+</MultiEffectInfos>

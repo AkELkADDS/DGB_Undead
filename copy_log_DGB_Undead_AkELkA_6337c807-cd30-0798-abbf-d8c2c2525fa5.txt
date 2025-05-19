@@ -1,0 +1,420 @@
+====================================================== 
+   BG3 MOD BACKUP DETAILED LOG - DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5 
+   Mon 05/19/2025  7:00:32.61 
+====================================================== 
+ 
+BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
+Backup folder: C:\GIT_BG3\MOD_REPOS\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5 
+ 
+[FILE COPYING REPORT] 
+====================================================== 
+SECTION 1: FILES FOUND 
+------------------------------------------------------------------------ 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\thumbnail.png 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5: 2 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\CharacterCreation\CharacterCreationAppearanceVisuals.tbl 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\CharacterCreationPresets\CharacterCreationPresets.tbl 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\Lists\SpellLists.tbl 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\MultiEffectInfos\27d7397f-8dc1-49b5-918f-56057423df0c.mei 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\MultiEffectInfos\6693ca65-7658-46f0-a6cf-d4b511145b52.mei 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\MultiEffectInfos\9a50e8a1-367a-4fd6-84bc-843a0383f59b.mei 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\MultiEffectInfos\c25fc26a-0da8-4fde-b4e7-fc269174a29c.mei 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\MultiEffectInfos\cd923402-2d62-4ae6-a292-9dd5481a1df1.mei 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\MultiEffectInfos\Groups\6f55eb2a-1395-43bb-bea2-fe9ac238c8c3.group 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\Progressions\Progressions.tbl 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\Races\Races.tbl 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\Stats\SpellData\Shout.stats 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\Stats\SpellData\Target.stats 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\Stats\SpellData\Zone.stats 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\Stats\Stats\Character.stats 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5: 15 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\mod_publish_logo.png 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\Localization\English\english.xml 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5: 3 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\CharacterCreation\CharacterCreationAppearanceVisuals.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\CharacterCreationPresets\CharacterCreationPresets.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\Content\[PAK]_CharacterVisuals\1307f579-dd84-956f-069c-2d3bf6cc22a5.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\Content\[PAK]_CharacterVisuals\544d0c8a-a04d-3d67-c2d6-88c20f55f99b.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\Content\[PAK]_CharacterVisuals\7384b21f-a936-05e4-f263-4550643a2ada.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\Content\[PAK]_CharacterVisuals\7c13d321-1153-bcb3-402a-88ddcaa44237.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\Content\[PAK]_CharacterVisuals\82577115-d037-5a38-2b44-dca92e86ca24.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\Content\[PAK]_CharacterVisuals\911eaa4b-90a5-4813-94c3-f71ff47a1b93.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\Content\[PAK]_CharacterVisuals\a8935304-cd20-4318-af35-5a08c215f2fe.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\DGB_Undead\Assets\Body\DGB_M_NKD_Body_A_Undead_Skeleton.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\DGB_Undead\Assets\Body\DGB_M_NKD_Body_A_Undead_Skeleton.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\DGB_Undead\Assets\Body\DGB_M_NKD_Head_U_Undead_1.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\DGB_Undead\Assets\Body\DGB_M_NKD_Head_U_Undead_1.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\Lists\SpellLists.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\MultiEffectInfos\27d7397f-8dc1-49b5-918f-56057423df0c.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\MultiEffectInfos\6693ca65-7658-46f0-a6cf-d4b511145b52.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\MultiEffectInfos\9a50e8a1-367a-4fd6-84bc-843a0383f59b.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\MultiEffectInfos\c25fc26a-0da8-4fde-b4e7-fc269174a29c.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\MultiEffectInfos\cd923402-2d62-4ae6-a292-9dd5481a1df1.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\Progressions\Progressions.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\Races\Races.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\RootTemplates\3fd87017-740a-407a-b105-59a26c6aaa87.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\RootTemplates\63913720-b369-43bc-a2fb-1a07a185ae0f.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\RootTemplates\a69bced9-b539-4ee2-96cb-c9c4672fdf02.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\RootTemplates\b768e745-6bca-42ea-9ee5-b56d18e9f93a.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\RootTemplates\c6b605e6-fe29-4c53-8dff-f122f7e3127a.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\Stats\Generated\Data\Character.txt 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\Stats\Generated\Data\Spell_Shout.txt 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\Stats\Generated\Data\Spell_Target.txt 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\Stats\Generated\Data\Spell_Zone.txt 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5: 30 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\DGB_Undead\Assets\Body\DGB_M_NKD_Body_A_Undead_Skeleton.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\DGB_Undead\Assets\Body\DGB_M_NKD_Head_U_Undead_1.GR2 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5: 2 
+ 
+[LOG] Total files found across all folders: 52 
+ 
+SECTION 2: COPY OPERATIONS 
+------------------------------------------------------------------------ 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\Projects\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5 to Projects\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5 
+[DEBUG] Using destination: Projects\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:00:36 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\Projects\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		     695	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\meta.lsx100%  
+	    New File  		   1.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\thumbnail.png 30%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         1         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :    1.64 m    1.64 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           1728088000 Bytes/sec.
+   Speed :            98881.988 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:00:36 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 2 
+[DEBUG] Successfully copied files: 2 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5: 
+      Total files: 2 
+      Copied successfully: 2 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\Editor\Mods\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5 to "Editor\Mods"\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5 
+[DEBUG] Using destination: Editor\Mods\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:00:38 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\Editor\Mods\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		    6122	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\CharacterCreation\CharacterCreationAppearanceVisuals.tbl100%  
+	    New File  		    5815	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\CharacterCreationPresets\CharacterCreationPresets.tbl100%  
+	    New File  		     972	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\Lists\SpellLists.tbl100%  
+	    New File  		    1390	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\MultiEffectInfos\27d7397f-8dc1-49b5-918f-56057423df0c.mei100%  
+	    New File  		    1962	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\MultiEffectInfos\6693ca65-7658-46f0-a6cf-d4b511145b52.mei100%  
+	    New File  		     818	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\MultiEffectInfos\9a50e8a1-367a-4fd6-84bc-843a0383f59b.mei100%  
+	    New File  		    2549	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\MultiEffectInfos\c25fc26a-0da8-4fde-b4e7-fc269174a29c.mei100%  
+	    New File  		     819	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\MultiEffectInfos\cd923402-2d62-4ae6-a292-9dd5481a1df1.mei100%  
+	    New File  		    2056	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\Progressions\Progressions.tbl100%  
+	    New File  		    7012	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\Races\Races.tbl100%  
+	    New File  		     167	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\MultiEffectInfos\Groups\6f55eb2a-1395-43bb-bea2-fe9ac238c8c3.group100%  
+	    New File  		    2236	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\Stats\SpellData\Shout.stats100%  
+	    New File  		   53536	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\Stats\SpellData\Target.stats100%  
+	    New File  		   22071	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\Stats\SpellData\Zone.stats100%  
+	    New File  		    3518	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\Stats\Stats\Character.stats100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        14        14         1         0         0         0
+   Files :        15        15         0         0         0         0
+   Bytes :   108.4 k   108.4 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :            18507166 Bytes/sec.
+   Speed :            1058.988 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:00:38 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 15 
+[DEBUG] Successfully copied files: 15 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5: 
+      Total files: 15 
+      Copied successfully: 15 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\Mods\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5 to Mods\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5 
+[DEBUG] Using destination: Mods\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:00:39 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\Mods\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		    4747	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\meta.lsx100%  
+	    New File  		   1.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\mod_publish_logo.png 15%  100%  
+	    New File  		    7224	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\Localization\English\english.xml100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         3         3         1         0         0         0
+   Files :         3         3         0         0         0         0
+   Bytes :    1.65 m    1.65 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           1739364000 Bytes/sec.
+   Speed :            99527.206 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:00:39 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 3 
+[DEBUG] Successfully copied files: 3 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5: 
+      Total files: 3 
+      Copied successfully: 3 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5 to Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5 
+[DEBUG] Using destination: Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:00:41 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		    4259	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\CharacterCreation\CharacterCreationAppearanceVisuals.lsx100%  
+	    New File  		    4394	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\CharacterCreationPresets\CharacterCreationPresets.lsx100%  
+	    New File  		     955	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\Lists\SpellLists.lsx100%  
+	    New File  		    2592	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\MultiEffectInfos\27d7397f-8dc1-49b5-918f-56057423df0c.lsf100%  
+	    New File  		    3087	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\MultiEffectInfos\6693ca65-7658-46f0-a6cf-d4b511145b52.lsf100%  
+	    New File  		    2098	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\MultiEffectInfos\9a50e8a1-367a-4fd6-84bc-843a0383f59b.lsf100%  
+	    New File  		    3597	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\MultiEffectInfos\c25fc26a-0da8-4fde-b4e7-fc269174a29c.lsf100%  
+	    New File  		    2099	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\MultiEffectInfos\cd923402-2d62-4ae6-a292-9dd5481a1df1.lsf100%  
+	    New File  		    1737	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\Progressions\Progressions.lsx100%  
+	    New File  		   23342	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\Races\Races.lsx100%  
+	    New File  		    2468	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\RootTemplates\3fd87017-740a-407a-b105-59a26c6aaa87.lsf100%  
+	    New File  		    2517	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\RootTemplates\63913720-b369-43bc-a2fb-1a07a185ae0f.lsf100%  
+	    New File  		    2492	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\RootTemplates\a69bced9-b539-4ee2-96cb-c9c4672fdf02.lsf100%  
+	    New File  		    2493	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\RootTemplates\b768e745-6bca-42ea-9ee5-b56d18e9f93a.lsf100%  
+	    New File  		    5568	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\RootTemplates\c6b605e6-fe29-4c53-8dff-f122f7e3127a.lsf100%  
+	    New File  		    7538	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\Content\[PAK]_CharacterVisuals\1307f579-dd84-956f-069c-2d3bf6cc22a5.lsf100%  
+	    New File  		    4731	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\Content\[PAK]_CharacterVisuals\544d0c8a-a04d-3d67-c2d6-88c20f55f99b.lsf100%  
+	    New File  		    4439	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\Content\[PAK]_CharacterVisuals\7384b21f-a936-05e4-f263-4550643a2ada.lsf100%  
+	    New File  		    7317	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\Content\[PAK]_CharacterVisuals\7c13d321-1153-bcb3-402a-88ddcaa44237.lsf100%  
+	    New File  		    4672	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\Content\[PAK]_CharacterVisuals\82577115-d037-5a38-2b44-dca92e86ca24.lsf100%  
+	    New File  		    2599	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\Content\[PAK]_CharacterVisuals\911eaa4b-90a5-4813-94c3-f71ff47a1b93.lsf100%  
+	    New File  		    2785	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\Content\[PAK]_CharacterVisuals\a8935304-cd20-4318-af35-5a08c215f2fe.lsf100%  
+	    New File  		  683404	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\DGB_Undead\Assets\Body\DGB_M_NKD_Body_A_Undead_Skeleton.GR2100%  
+	    New File  		     166	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\DGB_Undead\Assets\Body\DGB_M_NKD_Body_A_Undead_Skeleton.xml100%  
+	    New File  		  448804	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\DGB_Undead\Assets\Body\DGB_M_NKD_Head_U_Undead_1.GR2100%  
+	    New File  		     159	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\DGB_Undead\Assets\Body\DGB_M_NKD_Head_U_Undead_1.xml100%  
+	    New File  		     696	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\Stats\Generated\Data\Character.txt100%  
+	    New File  		     912	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\Stats\Generated\Data\Spell_Shout.txt100%  
+	    New File  		   23204	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\Stats\Generated\Data\Spell_Target.txt100%  
+	    New File  		    9003	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\Stats\Generated\Data\Spell_Zone.txt100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        17        17         1         0         0         0
+   Files :        30        30         0         0         0         0
+   Bytes :    1.20 m    1.20 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           140458555 Bytes/sec.
+   Speed :            8037.103 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:00:41 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 30 
+[DEBUG] Successfully copied files: 30 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5: 
+      Total files: 30 
+      Copied successfully: 30 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\Generated\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5 to "Generated\Public"\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5 
+[DEBUG] Using destination: Generated\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:00:43 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\Generated\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		  683404	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\DGB_Undead\Assets\Body\DGB_M_NKD_Body_A_Undead_Skeleton.GR2100%  
+	    New File  		  448804	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5\DGB_Undead\Assets\Body\DGB_M_NKD_Head_U_Undead_1.GR2100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         4         4         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :    1.07 m    1.07 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           566104000 Bytes/sec.
+   Speed :           32392.730 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:00:43 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 2 
+[DEBUG] Successfully copied files: 2 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5: 
+      Total files: 2 
+      Copied successfully: 2 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+SECTION 3: FALLBACK COPY ATTEMPTS 
+------------------------------------------------------------------------ 
+ 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 2 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 15 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 3 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 30 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Undead_AkELkA_6337c807-cd30-0798-abbf-d8c2c2525fa5 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 2 
+SECTION 4: FINAL SUMMARY 
+------------------------------------------------------------------------ 
+ 
+[SUMMARY] Total mod folders found: 1 
+[SUMMARY] Total files found: 52 
+[SUMMARY] Total files successfully copied: 104 
+ 
+[SUMMARY] All files were copied successfully 
+ 
+====================================================== 

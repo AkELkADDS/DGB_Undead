@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="53912403-fe14-4ce0-89aa-96acb1dee21a">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_284" />
+        <field name="UUID" type="IdTableFieldDefinition" color="#FF2F4F4F" value="a7d3b591-0419-4c6f-9002-108a4447df35" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" color="#FF2F4F4F" value="09e4bb53-975c-4664-91ef-78faf6dc5035" />
+        <field name="FSName" type="StringTableFieldDefinition" color="#FF2F4F4F" value="UndeadDragonbornAkELkA" />
+        <field name="Level" type="ByteTableFieldDefinition" value="1" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="2" />
+        <field name="Selectors" type="StringTableFieldDefinition" value="AddSpells(43e303cb-4f5e-4a8b-a09d-c9eccda0f6e0,Constitution)" />
+        <field name="PassivesAdded" type="StringTableFieldDefinition" color="#FFFF7F50" value="Dragonborn_Resistance_Necrotic" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_0" />
+        <field name="UUID" type="IdTableFieldDefinition" value="c90f3e12-b414-4dbf-a313-9aaeaf8c4f61" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="24216cae-46e7-4d3f-9650-c61e1b3b3ced" />
+        <field name="FSName" type="StringTableFieldDefinition" value="SporeUndeadDragonbornAkELkA" />
+        <field name="Level" type="ByteTableFieldDefinition" value="1" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="2" />
+        <field name="Selectors" type="StringTableFieldDefinition" value="AddSpells(75f2d7d9-3e95-4b84-8eed-0bfe1c58c7eb,Constitution)" />
+        <field name="PassivesAdded" type="StringTableFieldDefinition" color="#FF800000" value="Dragonborn_Resistance_Necrotic" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

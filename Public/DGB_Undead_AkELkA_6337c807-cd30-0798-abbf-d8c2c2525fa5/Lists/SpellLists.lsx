@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="10"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Dragonborn Necro Breath"/>
+                    <attribute id="Spells" type="LSString" value="Zone_BreathWeapon_Necrotic_EL_1"/>
+                    <attribute id="UUID" type="guid" value="43e303cb-4f5e-4a8b-a09d-c9eccda0f6e0"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="Dragonborn Spore Breath"/>
+                    <attribute id="Spells" type="LSString" value="Zone_BreathWeapon_Spore_EL_1"/>
+                    <attribute id="UUID" type="guid" value="75f2d7d9-3e95-4b84-8eed-0bfe1c58c7eb"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

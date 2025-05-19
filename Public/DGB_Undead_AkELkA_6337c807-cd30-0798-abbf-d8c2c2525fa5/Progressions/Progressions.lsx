@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="10"/>
+    <region id="Progressions">
+        <node id="root">
+            <children>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="1"/>
+                    <attribute id="Name" type="LSString" value="UndeadDragonbornAkELkA"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Dragonborn_Resistance_Necrotic"/>
+                    <attribute id="ProgressionType" type="uint8" value="2"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(43e303cb-4f5e-4a8b-a09d-c9eccda0f6e0,Constitution)"/>
+                    <attribute id="TableUUID" type="guid" value="09e4bb53-975c-4664-91ef-78faf6dc5035"/>
+                    <attribute id="UUID" type="guid" value="a7d3b591-0419-4c6f-9002-108a4447df35"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="1"/>
+                    <attribute id="Name" type="LSString" value="SporeUndeadDragonbornAkELkA"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Dragonborn_Resistance_Necrotic"/>
+                    <attribute id="ProgressionType" type="uint8" value="2"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(75f2d7d9-3e95-4b84-8eed-0bfe1c58c7eb,Constitution)"/>
+                    <attribute id="TableUUID" type="guid" value="24216cae-46e7-4d3f-9650-c61e1b3b3ced"/>
+                    <attribute id="UUID" type="guid" value="c90f3e12-b414-4dbf-a313-9aaeaf8c4f61"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

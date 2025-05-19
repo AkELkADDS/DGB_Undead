@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content contentuid="heb3dc73fg641cg99d9g6bdcgf9372e66a459" version="2">SemiDracolich</content>
+  <content contentuid="h1b9a26cdgc41dg60d1g857fg367156995fdf" version="1">Despite no ancestral links to the mighty creatures, these dragonborn share the charcoal colouration and fizzling, acrid breath of black dragons. </content>
+  <content contentuid="hd7b0f26fg4e85gc17eg1f3bg2a9a30821ebc" version="2">Necrotic Breath</content>
+  <content contentuid="h15076ba6g4345ge5a1g8e29g90af452919f2" version="2">Spew forth a cone of necrotic fumes.</content>
+  <content contentuid="h7027ae60g8e5dg377bgb833g44b62942c377" version="1">Poison Breath</content>
+  <content contentuid="h70d97b17g10e2g3db0g02b0g48a08d881a18" version="1">Spew forth a cone of poison.</content>
+  <content contentuid="h0babf13eg7685g294age6a8gce1cb6b93854" version="1">Destructive Wave: Necrotic</content>
+  <content contentuid="h929eecf1gb092g4d61gdb0fgfe9c27b3ea0b" version="1">Emit a shockwave of malevolent thunder that damages nearby creatures and possibly knocks them &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;.</content>
+  <content contentuid="hbb69ce59gc083gf4c0g419bg878d7f7e0ba6" version="1">Acid Breath</content>
+  <content contentuid="hfa2c9e84ge5f8g27ccg4e2dg12ea7786503a" version="1">Spew forth a cone of acid.</content>
+  <content contentuid="h3f34fe8agc1afgaf77g9dd5g2ae1e7ca47ea" version="1">Grave Repulsion</content>
+  <content contentuid="h187bf8d6gdf9fg85deg1c23g4a365a897adb" version="1">Release an ectoplasmic pulse that knocks living creatures back [1].</content>
+  <content contentuid="h9b5e4ec8g2474ge035gcd54g49726ccb0955" version="1">Inflict Wounds</content>
+  <content contentuid="h40580946ga032g16dagfff0g214e88c7feb1" version="1">Putrefy a creature with the necrotic energy filling your hands.</content>
+  <content contentuid="h3c0943b1g0929ga1e7gcbd6gd214dd0c090d" version="1">Vampiric Touch</content>
+  <content contentuid="h16336b77g696bg2f69g5ed9gf8b2ca4a1d2f" version="1">Touch an enemy to siphon their life force and regain half as many &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;.</content>
+  <content contentuid="hc5fb3038gc109g26ffg51e3g786dc2e85f90" version="1">For 10 turns, you can use Vampiric Touch again without expending an additional spell slot.</content>
+  <content contentuid="h1a8c0071g32b8ge096gc8eeg787e20d1bc3b" version="1">Recast Vampiric Touch</content>
+  <content contentuid="h58c03ae5g977fg58a1g0102g41f37e470047" version="1">Siphon the life force from an enemy without expending a &lt;LSTag Tooltip="SpellSlot"&gt;spell slot&lt;/LSTag&gt;. They take [1] and you regain half as many &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;.</content>
+  <content contentuid="hf59bf218gec6bg76d5g3e04g56abe17a92b4" version="1">Bone Chill</content>
+  <content contentuid="hfd56cb11gbe69gcd43gb0ceg168a60d40595" version="1">Prevent the target from healing until your next turn. An undead target receives &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;.</content>
+  <content contentuid="h1169d479gf5a2g48aagf91cg0e93aa53c56b" version="1">Psionic Pull</content>
+  <content contentuid="h185263bbge47fg38c5g3927g02894941dc04" version="1">Pull one creature or object towards you.</content>
+  <content contentuid="h4abdec19g1951gfcc0g2f58g4c845dae4536" version="1">Spiteful Suffering</content>
+  <content contentuid="ha4cb97c9gaeb2g2026gba93g9a593df4604d" version="1">The target takes [1] each turn and &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against it have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt;.</content>
+  <content contentuid="h135f4864g9cb5gb301g0a55g38139a8e2a60" version="1">Blight</content>
+  <content contentuid="h68318538gf5ecge1f1gbea8g3b217e1256c3" version="1">Plants take maximum damage from this spell, and have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on the &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; against it. </content>
+  <content contentuid="h8796b27agd7b4gccfegc42cg3b3752ad0ae7" version="1">Fungal Infestation</content>
+  <content contentuid="hf7c34226g0b2age372g87b7g315959dbb78a" version="1">Raise a mildewed, mould-encrusted zombie from a corpse. </content>
+  <content contentuid="h703b0694g2f26g058dga981g21e3f4d18911" version="1">Halo of Spores</content>
+  <content contentuid="h6ecfb78agc9cagb5fag8750g65f89264e4f7" version="1">Unleash a cloud of necrotic spores upon a target. This uses a reaction, so other reactions won't trigger this turn.</content>
+  <content contentuid="ha59d93f8g78bdg32e1gdfddgf6b8ca388226" version="1">Spreading Spores</content>
+  <content contentuid="h8c940d18ga4dcgde23g1b18g87b516f613a9" version="1">Seed an area in deadly spores that deal [1] per turn to all creatures that inhale them, except you and your allies.</content>
+  <content contentuid="h11fb2c13g30cbg1b48geb99g8da05192a8a1" version="1">Harm</content>
+  <content contentuid="h0551e61cgcf20gb5e5g3db1g82e4fcd8437e" version="1">Reduce a target's maximum &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;, but never below [1].</content>
+  <content contentuid="h8a87b707g92e1g6578gea55g1603ea7dd8ba" version="1">Spreading Spores</content>
+  <content contentuid="h42f46b5agdf4bg939bge021g85a553a7499d" version="1">Seed an area in deadly spores that deal [1] per turn to all creatures that inhale them, except you and your allies.</content>
+  <content contentuid="he235efbcgf681g8240g6527ge68392302e80" version="1">Circle of Death</content>
+  <content contentuid="h8b5c07efgd0a1g8077gafafgfa426c47a19d" version="1">Sculpt a massive sphere of entropic energy around a creature. Devastate the target and all surrounding creatures.</content>
+  <content contentuid="hb91a2a69gffd5g8f3bgb398g9787a8ff57fc" version="1">Necrotic Claws</content>
+  <content contentuid="h16fc1ca6g25c1g6003gcbafg84ebb7c717de" version="1">Lash out with cursed claws.</content>
+  <content contentuid="h4251b984gc819g73ceg8c8egb9b30838a531" version="2">Necrotic Breath 2</content>
+  <content contentuid="h15c5228bga7b4g5d30g2764g17b5432d9151" version="1">Spew forth a cone of necrotic fumes.</content>
+  <content contentuid="ha87c753eg2e70g4958gababg3664df3d347f" version="1">SporeSovereign</content>
+  <content contentuid="hf812696fgbc37g9d32gc011g044e25d65faf" version="1">Despite no ancestral links to the mighty creatures, these dragonborn share the charcoal colouration and fizzling, acrid breath of black dragons. </content>
+  <content contentuid="h59ba4587gf334ge140gb2d1g4a4dd3676871" version="1">Spore Breath</content>
+  <content contentuid="h411adb01g7e80g5507gc4adg91f5020b2636" version="1">Spew forth a cone of spored fumes.</content>
+  <content contentuid="h924c929eg5e9cg00d4gb324gfd864676e958" version="1">Skeleton</content>
+  <content contentuid="h0be6baa5gf5d1gbbd2g4c56g50dda91e625d" version="1">Skeleton</content>
+  <content contentuid="ha1d2b4e7gf9a6gb3bbgd6beg5dff4f649089" version="1">None</content>
+</contentList>
